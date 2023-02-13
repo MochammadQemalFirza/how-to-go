@@ -1,5 +1,5 @@
 package howtogo
 
 func Hello() string {
-	return "Hello"
+	return "Helloo"
 }
