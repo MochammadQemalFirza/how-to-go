@@ -1,5 +1,5 @@
 package howtogo
 
-func Hello() string {
-	return "Helloo!!!"
+func Hello(name string) string {
+	return "Helloo!!!" + name
 }
