@@ -10,3 +10,7 @@ func Profesi(profesi string) string {
 func Hobby(hobby string) string {
 	return "Yang memiliki hobi " + hobby
 }
+
+func Makan(makan string) string {
+	return "Sering memakan " + makan
+}
