@@ -14,3 +14,7 @@ func Hobby(hobby string) string {
 func Makan(makan string) string {
 	return "Sering memakan " + makan
 }
+
+func Asal(asal string) string {
+	return "Berasal dari" + asal
+}
